@@ -48,7 +48,7 @@ We will be using git throughout the semester.  Each project much be forked and 
 
 - [ ] When you have completed the website, submit your repository URL
 
-The URL you used for layout is: https://www.missmarysmix.com/
+The URL used for layout is: https://www.missmarysmix.com/
 
 Final Website URL: https://dgm2780-marketing-website.netlify.app/
 # DGM_2780_marketing
