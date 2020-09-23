@@ -136,7 +136,7 @@ nav #logo {
 
 /* Number 1 Section Styles */
 #number1 {
-	margin: 1rem;
+	margin: 3rem 1rem;
 }
 #number1 h2 {
 	color: #fff;
@@ -172,7 +172,7 @@ nav #logo {
 
 /* Bikes Section Styles */
 #bikes {
-	margin: 1rem 1rem 2rem 1rem;
+	margin: 3rem 1rem 3rem 1rem;
 }
 #bikes h2 {
 	text-align: center;
@@ -184,6 +184,11 @@ nav #logo {
 }
 #bikes figure img {
 	width: 100%;
+	transition: all .3s;
+	border-radius: 5px;
+}
+#bikes figure img:hover {
+	transform: scale(1.025);
 }
 #bikes figure figcaption {
 	color: #fff;
